@@ -1,0 +1,7 @@
+langchain==0.0.271
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+ctransformers==0.2.11
+chainlit==0.3.6
+PyPDF2==3.0.0
+Pydantic==2.10.1
